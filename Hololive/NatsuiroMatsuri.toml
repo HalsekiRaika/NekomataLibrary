@@ -1,0 +1,16 @@
+[Profile]
+Name="NatsuiroMatsuri"
+DBName="MatsuriChannel"
+Member="Hololive"
+Affiliation="Cover"
+Twitter="https://twitter.com/natsuiromatsuri"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCQ0UDLQCjY0rmuxCDE38FGg"
+
+[[ChannelData]]
+SiteName="BiliBili"
+    [[ChannelData.Details]]
+    ID=336731767

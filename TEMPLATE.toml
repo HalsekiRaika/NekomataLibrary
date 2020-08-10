@@ -1,0 +1,16 @@
+[Profile]
+Name=""
+DBName=""
+Member=""
+Affiliation=""
+Twitter=""
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID=""
+
+[[ChannelData]]
+SiteName="BiliBili"
+    [[ChannelData.Details]]
+    # ID=

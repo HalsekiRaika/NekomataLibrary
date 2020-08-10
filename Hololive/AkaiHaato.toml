@@ -1,0 +1,16 @@
+[Profile]
+Name="AkaiHaato"
+DBName="HaatoChannel"
+Member="Hololive"
+Affiliation="Cover"
+Twitter="https://twitter.com/akaihaato"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC1CfXB_kRs3C-zaeTG3oGyg"
+
+[[ChannelData]]
+SiteName="BiliBili"
+    [[ChannelData.Details]]
+    ID=339567211

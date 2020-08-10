@@ -1,0 +1,16 @@
+[Profile]
+Name="Akirosenthal"
+DBName="AkirozeChannel"
+Member="Hololive"
+Affiliation="Cover"
+Twitter="https://twitter.com/akirosenthal"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCFTLzh12_nrtzqBPsTCqenA"
+
+[[ChannelData]]
+SiteName="BiliBili"
+    [[ChannelData.Details]]
+    ID=389857131

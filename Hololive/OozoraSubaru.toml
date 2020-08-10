@@ -1,0 +1,16 @@
+[Profile]
+Name="OozoraSubaru"
+DBName="SubaruChannel"
+Member="Hololive"
+Affiliation="Cover"
+Twitter="https://twitter.com/oozorasubaru"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCvzGlP9oQwU--Y0r9id_jnA"
+
+[[ChannelData]]
+SiteName="BiliBili"
+    [[ChannelData.Details]]
+    ID=389859190
