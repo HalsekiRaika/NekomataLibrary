@@ -1,16 +1,16 @@
 [Profile]
-Name="InugamiKorone"
-DBName="KoroneChannel"
+Name="KiryuuCoco"
+DBName="CocoChannel"
 Member="Hololive"
 Affiliation="Cover"
-Twitter="https://twitter.com/inugamikorone"
+Twitter="https://twitter.com/kiryucoco"
 
 [[ChannelData]]
 SiteName="Youtube"
     [[ChannelData.Details]]
-    ID="UChAnqc_AY5_I3Px5dig3X1Q"
+    ID="UCS9uQI-jC3DE0L4IpXyvr6w"
 
 [[ChannelData]]
 SiteName="BiliBili"
     [[ChannelData.Details]]
-    ID=412135619
+    ID=491474049

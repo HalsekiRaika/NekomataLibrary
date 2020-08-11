@@ -1,16 +1,16 @@
 [Profile]
-Name="InugamiKorone"
-DBName="KoroneChannel"
+Name="OokamiMio"
+DBName="MioChannel"
 Member="Hololive"
 Affiliation="Cover"
-Twitter="https://twitter.com/inugamikorone"
+Twitter="https://twitter.com/ookamimio"
 
 [[ChannelData]]
 SiteName="Youtube"
     [[ChannelData.Details]]
-    ID="UChAnqc_AY5_I3Px5dig3X1Q"
+    ID="UCp-5t9SrOQwXMU7iIjQfARg"
 
 [[ChannelData]]
 SiteName="BiliBili"
     [[ChannelData.Details]]
-    ID=412135619
+    ID=389862071

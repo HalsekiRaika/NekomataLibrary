@@ -1,16 +1,16 @@
 [Profile]
-Name="InugamiKorone"
-DBName="KoroneChannel"
+Name="MurasakiShion"
+DBName="ShionChannel"
 Member="Hololive"
 Affiliation="Cover"
-Twitter="https://twitter.com/inugamikorone"
+Twitter="https://twitter.com/murasakishionch"
 
 [[ChannelData]]
 SiteName="Youtube"
     [[ChannelData.Details]]
-    ID="UChAnqc_AY5_I3Px5dig3X1Q"
+    ID="UCXTpFs_3PqI41qX2d9tL2Rw"
 
 [[ChannelData]]
 SiteName="BiliBili"
     [[ChannelData.Details]]
-    ID=412135619
+    ID=389857640

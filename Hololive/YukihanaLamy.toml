@@ -1,16 +1,16 @@
 [Profile]
-Name="InugamiKorone"
-DBName="KoroneChannel"
+Name="YukihanaLamy"
+DBName="LamyChannel"
 Member="Hololive"
 Affiliation="Cover"
-Twitter="https://twitter.com/inugamikorone"
+Twitter="https://twitter.com/yukihanalamy"
 
 [[ChannelData]]
 SiteName="Youtube"
     [[ChannelData.Details]]
-    ID="UChAnqc_AY5_I3Px5dig3X1Q"
+    ID="UCFKOVgVbGmX65RxO3EtH3iw"
 
 [[ChannelData]]
 SiteName="BiliBili"
     [[ChannelData.Details]]
-    ID=412135619
+    ID=624252706

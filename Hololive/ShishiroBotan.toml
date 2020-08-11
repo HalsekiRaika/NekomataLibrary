@@ -1,16 +1,16 @@
 [Profile]
-Name="InugamiKorone"
-DBName="KoroneChannel"
+Name="ShishiroBotan"
+DBName="BotanChannel"
 Member="Hololive"
 Affiliation="Cover"
-Twitter="https://twitter.com/inugamikorone"
+Twitter="https://twitter.com/shishirobotan"
 
 [[ChannelData]]
 SiteName="Youtube"
     [[ChannelData.Details]]
-    ID="UChAnqc_AY5_I3Px5dig3X1Q"
+    ID="UCUKD-uaobj9jiqB-VXt71mA"
 
 [[ChannelData]]
 SiteName="BiliBili"
     [[ChannelData.Details]]
-    ID=412135619
+    ID=624252710
