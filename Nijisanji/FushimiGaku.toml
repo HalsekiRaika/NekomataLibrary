@@ -1,0 +1,11 @@
+[Profile]
+Name="FushimiGaku"
+DBName="FushimiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/gaku_fushimi"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCXU7YYxy_iQd3ulXyO-zC2w"

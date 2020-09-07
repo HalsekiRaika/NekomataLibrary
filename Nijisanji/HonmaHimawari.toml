@@ -1,0 +1,11 @@
+[Profile]
+Name="HonmaHimawari"
+DBName="HimawariChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/honmahimawari"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC0g1AE0DOjBYnLhkgoRWN1w"

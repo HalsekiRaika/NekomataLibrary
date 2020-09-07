@@ -1,0 +1,11 @@
+[Profile]
+Name="Mashiro"
+DBName="MashiroChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/mashiro2434"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCfki3lMEF6SGBFiFfo9kvUA"

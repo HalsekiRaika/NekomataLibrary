@@ -1,0 +1,11 @@
+[Profile]
+Name="MachitaChima"
+DBName="ChimaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/chima_machita23"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCo7TRj3cS-f_1D9ZDmuTsjw"

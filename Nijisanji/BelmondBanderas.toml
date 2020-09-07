@@ -1,0 +1,11 @@
+[Profile]
+Name="BelmondBanderas"
+DBName="BelmondChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/belmond_b_2434"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCbc8fwhdUNlqi-J99ISYu4A"

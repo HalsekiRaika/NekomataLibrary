@@ -1,0 +1,11 @@
+[Profile]
+Name="ExAlbio"
+DBName="ExChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Ex_Albio"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCIytNcoz4pWzXfLda0DoULQ"

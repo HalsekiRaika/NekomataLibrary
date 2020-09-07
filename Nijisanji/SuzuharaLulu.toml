@@ -1,0 +1,11 @@
+[Profile]
+Name="SuzuharaLulu"
+DBName="LuluChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/lulu_suzuhara"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC_a1ZYZ8ZTXpjg9xUY9sj8w"

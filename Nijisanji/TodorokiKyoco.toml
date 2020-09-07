@@ -1,0 +1,11 @@
+[Profile]
+Name="TodorokiKyoco"
+DBName="KyocoChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/KT_seeds"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCRV9d6YCYIMUszK-83TwxVA"

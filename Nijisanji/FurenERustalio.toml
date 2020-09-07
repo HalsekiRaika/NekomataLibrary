@@ -1,0 +1,11 @@
+[Profile]
+Name="FurenERustalio"
+DBName="FurenChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/furen_2434"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCuep1JCrMvSxOGgGhBfJuYw"

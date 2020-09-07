@@ -1,0 +1,11 @@
+[Profile]
+Name="SuoSango"
+DBName="SangoChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Suo_Sango"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCL_O_HXgLJx3Auteer0n0pA"

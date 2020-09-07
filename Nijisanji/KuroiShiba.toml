@@ -1,0 +1,11 @@
+[Profile]
+Name="KuroiShiba"
+DBName="ShibaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/BlackShiba_chan"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCmeyo5pRj_6PXG-CsGUuWWg"

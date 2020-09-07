@@ -1,0 +1,11 @@
+[Profile]
+Name="KagamiHayato"
+DBName="KagamiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/H_KAGAMI2434"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCmovZ2th3Sqpd00F5RdeigQ"

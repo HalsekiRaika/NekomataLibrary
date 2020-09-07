@@ -1,0 +1,11 @@
+[Profile]
+Name="YagurumaRine"
+DBName="YagurumaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Rine_Yaguruma"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCvzVB-EYuHFXHZrObB8a_Og"

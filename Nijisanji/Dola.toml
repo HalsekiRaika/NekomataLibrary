@@ -1,0 +1,11 @@
+[Profile]
+Name="Dola"
+DBName="DolaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/___Dola"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC53UDnhAAYwvNO7j_2Ju1cQ"

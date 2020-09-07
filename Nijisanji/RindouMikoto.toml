@@ -1,0 +1,11 @@
+[Profile]
+Name="RindouMikoto"
+DBName="RindouChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/RindouMikoto"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCPvGypSgfDkVe7JG2KygK7A"

@@ -1,0 +1,11 @@
+[Profile]
+Name="AsahinaAkane"
+DBName="AkaneChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Akane_Asahina__"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCe_p3YEuYJb8Np0Ip9dk-FQ"

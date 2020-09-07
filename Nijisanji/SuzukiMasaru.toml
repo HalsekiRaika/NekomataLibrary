@@ -1,0 +1,11 @@
+[Profile]
+Name="SuzukiMasaru"
+DBName="SuzukiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Darkness_Eater"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCryOPk2GZ1meIDt53tL30Tw"

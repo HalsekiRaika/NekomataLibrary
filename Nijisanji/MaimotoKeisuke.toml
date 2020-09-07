@@ -1,0 +1,11 @@
+[Profile]
+Name="MaimotoKeisuke"
+DBName="MaimotoChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/maimoto_k"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCJubINhCcFXlsBwnHp0wl_g"

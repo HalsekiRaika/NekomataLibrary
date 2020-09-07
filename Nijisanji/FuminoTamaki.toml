@@ -1,0 +1,11 @@
+[Profile]
+Name="FuminoTamaki"
+DBName="TamakiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/nekokan_chu"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCBiqkFJljoxAj10SoP2w2Cg"

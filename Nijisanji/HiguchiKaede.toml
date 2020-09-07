@@ -1,0 +1,11 @@
+[Profile]
+Name="HiguchiKaede"
+DBName="KaedeChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/HiguchiKaede"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCsg-YqdqQ-KFF0LNk23BY4A"

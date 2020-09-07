@@ -1,0 +1,11 @@
+[Profile]
+Name="AsukaHina"
+DBName="AsukaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/hina__asuka"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCiSRx1a2k-0tOg-fs6gAolQ"

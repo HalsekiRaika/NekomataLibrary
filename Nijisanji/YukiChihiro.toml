@@ -1,0 +1,11 @@
+[Profile]
+Name="YukiChihiro"
+DBName="ChihiroChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Chihiro_yuki23"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCLO9QDxVL4bnvRRsz6K4bsQ"

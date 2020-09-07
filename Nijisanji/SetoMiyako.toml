@@ -1,0 +1,11 @@
+[Profile]
+Name="SetoMiyako"
+DBName="SetoChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/seto_miyako"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCHK5wkevfaGrPr7j3g56Jmw"

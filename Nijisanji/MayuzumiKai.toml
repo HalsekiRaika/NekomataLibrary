@@ -1,0 +1,11 @@
+[Profile]
+Name="MayuzumiKai"
+DBName="MayuzumiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/mayuzumi_X"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="MayuzumiX"

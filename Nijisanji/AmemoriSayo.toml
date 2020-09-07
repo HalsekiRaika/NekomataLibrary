@@ -1,0 +1,11 @@
+[Profile]
+Name="AmemoriSayo"
+DBName="AmemoriChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Sayo_Amemori"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCRWOdwLRsenx2jLaiCAIU4A"

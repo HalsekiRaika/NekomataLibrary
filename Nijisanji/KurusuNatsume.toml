@@ -1,0 +1,11 @@
+[Profile]
+Name="KurusuNatsume"
+DBName="NatsumeChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/kurusu72me"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCRcLAVTbmx2-iNcXSsupdNA"

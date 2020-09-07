@@ -1,0 +1,11 @@
+[Profile]
+Name="YumeoiKakeru"
+DBName="YumeoChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/kakeru_yumeoi"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCTIE7LM5X15NVugV7Krp9Hw"

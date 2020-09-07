@@ -1,0 +1,11 @@
+[Profile]
+Name="GweluOsGar"
+DBName="GweluChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Gwelu_os_gar"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC1QgXt46-GEvtNjEC1paHnw"

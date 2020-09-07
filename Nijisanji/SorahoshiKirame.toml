@@ -1,0 +1,11 @@
+[Profile]
+Name="SorahoshiKirame"
+DBName="KirameChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/kirame_2434"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC_82HBGtvwN1hcGeOGHzUBQ"

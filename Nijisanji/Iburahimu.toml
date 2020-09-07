@@ -1,0 +1,11 @@
+[Profile]
+Name="Iburahimu"
+DBName="IburahimuChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/honmono_ibrahim"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCmZ1Rbthn-6Jm_qOGjYsh5A"

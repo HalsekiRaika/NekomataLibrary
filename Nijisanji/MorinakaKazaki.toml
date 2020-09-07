@@ -1,0 +1,11 @@
+[Profile]
+Name="MorinakaKazaki"
+DBName="MorinakaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/KazakiMorinaka"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCtpB6Bvhs1Um93ziEDACQ8g"

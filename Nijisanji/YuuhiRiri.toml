@@ -1,0 +1,11 @@
+[Profile]
+Name="YuuhiRiri"
+DBName="YuuhiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Yuuhi_Riri"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC48jH1ul-6HOrcSSfoR02fQ"

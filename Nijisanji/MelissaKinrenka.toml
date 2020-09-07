@@ -1,0 +1,11 @@
+[Profile]
+Name="MelissaKinrenka"
+DBName="MelissaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/melissa_2434"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCwcyyxn6h9ex4sMXGtpQE_g"

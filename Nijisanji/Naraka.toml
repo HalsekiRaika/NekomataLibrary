@@ -1,0 +1,11 @@
+[Profile]
+Name="Naraka"
+DBName="NarakaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Naraka_2434"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC-o-E6I3IC2q8sAoAuM6Umg"

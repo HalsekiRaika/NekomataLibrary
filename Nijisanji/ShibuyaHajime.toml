@@ -1,0 +1,11 @@
+[Profile]
+Name="ShibuyaHajime"
+DBName="ShibuyaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/sibuya_hajime"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCeK9HFcRZoTrvqcUCtccMoQ"

@@ -1,0 +1,11 @@
+[Profile]
+Name="MakainoRirimu"
+DBName="RirimuChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/makaino_ririmu"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC9EjSJ8pvxtvPdxLOElv73w"

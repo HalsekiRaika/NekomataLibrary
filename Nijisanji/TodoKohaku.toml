@@ -1,0 +1,11 @@
+[Profile]
+Name="TodoKohaku"
+DBName="KohakuChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/kohaku_todo"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCebT4Aq-3XWb5je1S1FvR_A"

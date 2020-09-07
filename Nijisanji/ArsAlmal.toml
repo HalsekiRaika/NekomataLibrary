@@ -1,0 +1,11 @@
+[Profile]
+Name="ArsAlmal"
+DBName="ArsChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/ars_almal"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCdpUojq0KWZCN9bxXnZwz5w"

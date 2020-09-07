@@ -1,0 +1,11 @@
+[Profile]
+Name="YorumiRena"
+DBName="YorumiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/rena_yorumi"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCL34fAoFim9oHLbVzMKFavQ"

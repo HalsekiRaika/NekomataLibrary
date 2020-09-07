@@ -1,0 +1,11 @@
+[Profile]
+Name="YuzukiRoa"
+DBName="RoaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/yuzuki_roa"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCCVwhI5trmaSxfcze_Ovzfw"

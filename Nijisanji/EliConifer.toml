@@ -1,0 +1,11 @@
+[Profile]
+Name="EliConifer"
+DBName="EliChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Eli_Conifer"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCpNH2Zk2gw3JBjWAKSyZcQQ"

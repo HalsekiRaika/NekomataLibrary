@@ -1,0 +1,11 @@
+[Profile]
+Name="ShirayukiTomoe"
+DBName="TomoeChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Tomoe_Shirayuki"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCuvk5PilcvDECU7dDZhQiEw"

@@ -1,0 +1,11 @@
+[Profile]
+Name="GendukiToujirou"
+DBName="GendukiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/1O46V"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCGw7lrT-rVZCWHfdG9Frcgg"

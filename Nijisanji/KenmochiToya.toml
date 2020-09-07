@@ -1,0 +1,11 @@
+[Profile]
+Name="KenmochiToya"
+DBName="KenmochiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/rei_Toya_rei"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCv1fFr156jc65EMiLbaLImw"

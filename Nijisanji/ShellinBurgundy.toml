@@ -1,0 +1,11 @@
+[Profile]
+Name="ShellinBurgundy"
+DBName="ShellinChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/ShellinBurgundy"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCHBhnG2G-qN0JrrWmMO2FTA"

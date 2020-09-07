@@ -1,0 +1,11 @@
+[Profile]
+Name="MatsukaiMao"
+DBName="MaoChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/matsukai_mao"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCerkculBD7YLc_vOGrF7tKg"

@@ -1,0 +1,11 @@
+[Profile]
+Name="HakaseFuyuki"
+DBName="HakaseChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Hakase_Fuyuki"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCGYAYLDE7TZiiC8U6teciDQ"

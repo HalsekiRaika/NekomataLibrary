@@ -1,0 +1,11 @@
+[Profile]
+Name="KaidaHaru"
+DBName="HaruChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Kaida_Haru"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCo2N7C-Z91waaR6lF3LL_jw"

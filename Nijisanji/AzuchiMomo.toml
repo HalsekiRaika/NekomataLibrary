@@ -1,0 +1,11 @@
+[Profile]
+Name="AzuchiMomo"
+DBName="AzuchiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/momo_azuchi_"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC6TfqY40Xt1Y0J-N18c85qQ"

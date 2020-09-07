@@ -1,0 +1,11 @@
+[Profile]
+Name="YashiroKizuku"
+DBName="YashiroChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/846kizuQ"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCKMYISTJAQ8xTplUPHiABlA"

@@ -1,0 +1,11 @@
+[Profile]
+Name="YamagamiKaruta"
+DBName="KarutaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Karuta_Yamagami"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCllKI7VjyANuS1RXatizfLQ"

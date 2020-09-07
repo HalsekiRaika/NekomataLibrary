@@ -1,0 +1,11 @@
+[Profile]
+Name="HayamaMarin"
+DBName="HayamaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Hayama_Marin"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCfipDDn7wY-C-SoUChgxCQQ"

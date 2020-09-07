@@ -1,0 +1,11 @@
+[Profile]
+Name="Fumi"
+DBName="FumiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/FumiVirtual"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCwrjITPwG4q71HzihV2C7Nw"

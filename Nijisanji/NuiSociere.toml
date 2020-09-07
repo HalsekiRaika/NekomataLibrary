@@ -1,0 +1,11 @@
+[Profile]
+Name="NuiSociere"
+DBName="NuiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Nui_Sociere"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCUc8GZfFxtmk7ZwSO7ccQ0g"

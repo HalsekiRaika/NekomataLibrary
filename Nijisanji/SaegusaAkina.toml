@@ -1,0 +1,11 @@
+[Profile]
+Name="SaegusaAkina"
+DBName="AkinaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/333akina"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCNW1Ex0r6HsWRD4LCtPwvoQ"

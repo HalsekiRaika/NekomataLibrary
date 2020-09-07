@@ -1,0 +1,11 @@
+[Profile]
+Name="SakuraRitsuki"
+DBName="AkaneChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/SAKURA_RITSUKI"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCfQVs_KuXeNAlGa3fb8rlnQ"

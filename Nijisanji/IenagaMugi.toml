@@ -1,0 +1,11 @@
+[Profile]
+Name="IenagaMugi"
+DBName="IenagaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/ienaga_mugi23"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC_GCs6GARLxEHxy1w40d6VQ"

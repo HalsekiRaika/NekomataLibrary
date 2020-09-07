@@ -1,0 +1,11 @@
+[Profile]
+Name="LizeHelesta"
+DBName="LizeChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Lize_Helesta"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCZ1xuCK1kNmn5RzPYIZop3w"

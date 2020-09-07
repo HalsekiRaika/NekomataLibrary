@@ -1,0 +1,11 @@
+[Profile]
+Name="AngeKatrina"
+DBName="AngeChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Ange_Katrina_"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCHVXbQzkl3rDfsXWo8xi2qw"

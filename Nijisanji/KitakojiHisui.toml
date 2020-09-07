@@ -1,0 +1,11 @@
+[Profile]
+Name="KitakojiHisui"
+DBName="HisuiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Hisui_Kitakoji"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCRqBKoKuX30ruKAq05pCeRQ"

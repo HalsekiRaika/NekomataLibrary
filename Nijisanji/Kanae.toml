@@ -1,0 +1,11 @@
+[Profile]
+Name="Kanae"
+DBName="KanaeChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Kanae_2434"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCspv01oxUFf_MTSipURRhkA"

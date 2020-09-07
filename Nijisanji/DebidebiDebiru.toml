@@ -1,0 +1,11 @@
+[Profile]
+Name="DebidebiDebiru"
+DBName="DebiruChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/debidebiru_sama"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCjlmCrq4TP1I4xguOtJ-31w"

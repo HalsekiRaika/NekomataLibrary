@@ -1,0 +1,11 @@
+[Profile]
+Name="UdukiKou"
+DBName="UdukiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/udukikohh"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC3lNFeJiTq6L3UWoz4g1e-A"

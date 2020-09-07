@@ -1,0 +1,11 @@
+[Profile]
+Name="MononobeAlice"
+DBName="AliceChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/AliceMononobe"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCt0clH12Xk1-Ej5PXKGfdPA"

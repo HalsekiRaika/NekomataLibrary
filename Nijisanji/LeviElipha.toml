@@ -1,0 +1,11 @@
+[Profile]
+Name="LeviElipha"
+DBName="LeviChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Levi_E_2434"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCtnO2N4kPTXmyvedjGWdx3Q"

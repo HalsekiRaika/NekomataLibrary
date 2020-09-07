@@ -1,0 +1,11 @@
+[Profile]
+Name="Kuzuha"
+DBName="KuzuhaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Vamp_Kuzu"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCSFCh5NL4qXrAy9u-u2lX3g"

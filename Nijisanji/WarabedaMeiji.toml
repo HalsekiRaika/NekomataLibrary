@@ -1,0 +1,11 @@
+[Profile]
+Name="WarabedaMeiji"
+DBName="MeijiChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/warabeda_meiji"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCveZ9Ic1VtcXbsyaBgxPMvg"

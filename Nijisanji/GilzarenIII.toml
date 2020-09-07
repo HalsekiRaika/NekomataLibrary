@@ -1,0 +1,11 @@
+[Profile]
+Name="GilzarenIII"
+DBName="GilzarenChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Gilzaren_III"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCUzJ90o1EjqUbk2pBAy0_aw"

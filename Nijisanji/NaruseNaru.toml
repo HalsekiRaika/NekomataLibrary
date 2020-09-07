@@ -1,0 +1,11 @@
+[Profile]
+Name="NaruseNaru"
+DBName="NaruseChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/narusenaru_2434"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCoM_XmK45j504hfUWvN06Qg"

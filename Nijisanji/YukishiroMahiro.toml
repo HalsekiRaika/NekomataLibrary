@@ -1,0 +1,11 @@
+[Profile]
+Name="YukishiroMahiro"
+DBName="MahiroChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/MahiroYukishiro"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCHX7YpFG8rVwhsHCx34xt7w"

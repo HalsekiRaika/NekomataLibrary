@@ -1,0 +1,11 @@
+[Profile]
+Name="KataribeTsumugu"
+DBName="KataribeChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/KataribeTsumugu"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCufQu4q65z63IgE4cfKs1BQ"

@@ -1,0 +1,11 @@
+[Profile]
+Name="NishizonoChigusa"
+DBName="ChigusaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/Chigusa_24zono"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCkngxfPbmGyGl_RIq4FA3MQ"

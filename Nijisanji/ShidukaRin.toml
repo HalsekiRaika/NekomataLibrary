@@ -1,0 +1,11 @@
+[Profile]
+Name="ShidukaRin"
+DBName="ShidukaChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/ShizuRin23"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC6oDys1BGgBsIC3WhG1BovQ"

@@ -1,0 +1,11 @@
+[Profile]
+Name="SisterCleaire"
+DBName="CleaireChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/SisterCleaire"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC1zFJrfEKvCixhsjNSb1toQ"
