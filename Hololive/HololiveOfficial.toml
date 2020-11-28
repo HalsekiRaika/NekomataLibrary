@@ -1,0 +1,11 @@
+[Profile]
+Name="HololiveOfficial"
+DBName="HololiveOfficialChannel"
+Member="Hololive"
+Affiliation="Cover"
+Twitter="https://twitter.com/hololivetv"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCJFZiqLMntJufDCHc6bQixg"

@@ -1,0 +1,11 @@
+[Profile]
+Name="NijisanjiOfficial"
+DBName="NijisanjiOfficialChannel"
+Member="Nijisanji"
+Affiliation="Ichikara"
+Twitter="https://twitter.com/nijisanji_app"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCX7YkU9nEeaoZbkVLVajcMg"
