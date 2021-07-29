@@ -1,0 +1,11 @@
+[Profile]
+Name="AxiaKrone"
+DBName="AxiaChannel"
+Member="Nijisanji"
+Affiliation="AnyColor"
+Twitter="https://twitter.com/AXIA_96NE"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC8oPnditPSp5lZu45fnXWCA"
