@@ -1,16 +1,16 @@
 [Profile]
-Name="HoshimatiSuisei"
-DBName="SuiseiChannel"
+Name="Sakuramiko"
+DBName="MikoChannel"
 Member="Hololive"
 Affiliation="Cover"
-Twitter="https://twitter.com/suisei_hosimati"
+Twitter="https://twitter.com/sakuramiko35"
 
 [[ChannelData]]
 SiteName="Youtube"
     [[ChannelData.Details]]
-    ID="UC5CwaMl1eIgY8h02uZw7u8A"
+    ID="UC-hM6YJuNYVAmUWxeIr9FeA"
 
 [[ChannelData]]
 SiteName="BiliBili"
     [[ChannelData.Details]]
-    ID=9034870
+    ID=366690056
