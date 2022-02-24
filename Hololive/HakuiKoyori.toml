@@ -1,0 +1,11 @@
+[Profile]
+Name="HakuiKoyori"
+DBName="KoyoriChannel"
+Member="Hololive"
+Affiliation="Cover"
+Twitter="https://twitter.com/hakuikoyori"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UC6eWCld0KwmyHFbAqK3V-Rw"

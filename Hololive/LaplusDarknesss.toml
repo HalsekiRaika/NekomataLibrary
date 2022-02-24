@@ -1,0 +1,11 @@
+[Profile]
+Name="LaplusDarknesss"
+DBName="LaplusChannel"
+Member="Hololive"
+Affiliation="Cover"
+Twitter="https://twitter.com/LaplusDarknesss"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCENwRMx5Yh42zWpzURebzTw"

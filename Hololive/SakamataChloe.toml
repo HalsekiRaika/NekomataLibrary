@@ -1,0 +1,11 @@
+[Profile]
+Name="SakamataChloe"
+DBName="ChloeChannel"
+Member="Hololive"
+Affiliation="Cover"
+Twitter="https://twitter.com/sakamatachloe"
+
+[[ChannelData]]
+SiteName="Youtube"
+    [[ChannelData.Details]]
+    ID="UCIBY1ollUsauvVi4hW4cumw"
