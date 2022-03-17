@@ -1,0 +1,10 @@
+{
+    "id": 2543609538087085,
+    "name": "HololiveOfficial",
+    "localized_name": "ホロライブ",
+    "twitter_url": "https://twitter.com/hololivetv",
+
+    "channels": [
+        { "site_name": "Youtube", "id": "UCJFZiqLMntJufDCHc6bQixg" }
+    ]
+}

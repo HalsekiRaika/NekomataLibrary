@@ -1,0 +1,10 @@
+{
+    "id": 9030598858864803,
+    "name": "NijisanjiOfficial",
+    "localized_name": "にじさんじ公式",
+    "twitter_url": "https://twitter.com/nijisanji_app",
+
+    "channels": [
+        { "site_name": "Youtube", "id": "UCX7YkU9nEeaoZbkVLVajcMg" }
+    ]
+}
