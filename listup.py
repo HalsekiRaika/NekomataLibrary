@@ -35,7 +35,7 @@ def main():
                             id = channel['id']
                             print(f'{id.rjust(48)}')
         af_dir.append((configs, af_count))
-        print(af_dir)
+    print(af_dir)
 
 if __name__ == '__main__':
     main()
